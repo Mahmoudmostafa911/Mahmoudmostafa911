@@ -48,21 +48,11 @@ Currently pushing toward **Data Engineering** while keeping a strong analytics t
 
 ## 📈 Featured Projects
 
-- **Operations Performance Dashboard (Power BI)**  
-  Contact-center KPIs dashboard (AHT, QA, Attendance).  
+- **Direct-Sales-Analysis (SQL - Power BI)**  
+  This project analyzes Direct Sales performance using SQL Server and Power BI.
+The stored procedure aggregates multiple data sources (International, English, Movers, Connects) into a single analysis table for reporting.  
   **Tech:** Power BI, SQL, DAX  
-  **Repo/Demo:** `ADD_LINK`
-
-- **Marketing A/B Testing Analysis (Python)**  
-  Statistical testing to measure campaign uplift.  
-  **Tech:** Python (Pandas, SciPy), Excel  
-  **Repo:** `ADD_LINK`
-
-- **Job Market Explorer (Power BI)**  
-  Scraped job postings & analyzed trends.  
-  **Tech:** Power BI, Python (BeautifulSoup)  
-  **Demo:** `ADD_LINK`
-
+  **Repo/Demo:** https://github.com/Mahmoudmostafa911/Direct-Sales-Analysis
 ---
 
 ## 📬 Contact
