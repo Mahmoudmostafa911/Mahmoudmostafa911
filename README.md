@@ -54,8 +54,8 @@ The stored procedure aggregates multiple data sources (International, English, M
   **Tech:** Power BI, SQL, DAX  
   **Repo/Demo:** https://github.com/Mahmoudmostafa911/Direct-Sales-Analysis
 ---
-- **HR Analsys (Python - Power BI)**  
-  This project Hr Analsys using Python Server and Power BI.
+- **HR analysis (Python - Power BI)**  
+  This project Hr Analysis using Python Server and Power BI.
   **Tech:** Power BI, Python  
   **Repo/Demo:** https://github.com/Mahmoudmostafa911/HR-Analsys
 ## 📬 Contact
