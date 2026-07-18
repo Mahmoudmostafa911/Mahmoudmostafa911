@@ -58,10 +58,23 @@ The stored procedure aggregates multiple data sources (International, English, M
   This project Hr Analysis using Python Server and Power BI.
   **Tech:** Power BI, Python  
   **Repo/Demo:** https://github.com/Mahmoudmostafa911/HR-Analsys
+---
+- **HappyPaws From DataCamp**
+
+  HappyPaws DataCleaning.ipynb — cleans and merges the three raw source files into a single dataset (all_data).
+  
+  HappyPaws Dashboard.ipynb — loads all_data and builds a static analytical dashboard with Matplotlib and Seaborn.
+  <img width="2985" height="3241" alt="happypaws_dashboard" src="https://github.com/user-attachments/assets/87627089-8589-4e05-b0ac-6321ebeec497" />
+  <img width="1500" height="732" alt="Screenshot 2026-07-19 023512" src="https://github.com/user-attachments/assets/d51ba787-2d41-478b-aa3a-58b2636401b7" />
+  <img width="1447" height="836" alt="Screenshot 2026-07-19 023532" src="https://github.com/user-attachments/assets/4c69156a-3756-41ee-9086-91eabd374d03" />
+  
 ## 📬 Contact
 
 <p align="center">
   <a href="mailto:mahmoudmostafamm911@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/mahmoud-mostafa-ba92781ba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+
+
 
