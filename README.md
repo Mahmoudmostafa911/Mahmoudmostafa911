@@ -65,8 +65,7 @@ The stored procedure aggregates multiple data sources (International, English, M
   
   HappyPaws Dashboard.ipynb — loads all_data and builds a static analytical dashboard with Matplotlib and Seaborn.
   <img width="2985" height="3241" alt="happypaws_dashboard" src="https://github.com/user-attachments/assets/87627089-8589-4e05-b0ac-6321ebeec497" />
-  <img width="1500" height="732" alt="Screenshot 2026-07-19 023512" src="https://github.com/user-attachments/assets/d51ba787-2d41-478b-aa3a-58b2636401b7" />
-  <img width="1447" height="836" alt="Screenshot 2026-07-19 023532" src="https://github.com/user-attachments/assets/4c69156a-3756-41ee-9086-91eabd374d03" />
+
   
 ## 📬 Contact
 
