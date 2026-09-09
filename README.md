@@ -21,6 +21,7 @@ I turn messy operational and sales data into reporting people trust and actually
 ## 📈 Featured projects
 | Project | What it shows | Stack |
 |---|---|---|
+| [Sales Pipeline Lakehouse](https://github.com/Mahmoudmostafa911/sales-pipeline-lakehouse) | Medallion Lakehouse (Bronze/Silver/Gold) on PySpark + Delta Lake with data-quality checks, MERGE upserts and a Kimball star schema feeding a Power BI semantic model — runs unchanged on Microsoft Fabric, Databricks or local Spark | PySpark, Delta Lake, Spark SQL, DAX, Microsoft Fabric |
 | [Direct Sales Analysis](https://github.com/Mahmoudmostafa911/Direct-Sales-Analysis) | SQL Server stored procedure that cleans and aggregates multi-channel sales data into one reporting table, surfaced in a Power BI dashboard | SQL Server, T-SQL, Power BI, DAX |
 | [HR Analysis](https://github.com/Mahmoudmostafa911/HR-Analysis) | End-to-end HR analytics: pandas normalisation → Power BI dashboard, plus a matplotlib/Plotly mini-dashboard | Python, pandas, Power BI |
 | [HappyPaws Clinic](https://github.com/Mahmoudmostafa911/happypaws-clinic) | Data Engineer certification practical: cleaning, validating and joining three related datasets with pandas | Python, pandas, Jupyter |
