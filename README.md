@@ -21,6 +21,7 @@ I turn messy operational and sales data into reporting people trust and actually
 ## 📈 Featured projects
 | Project | What it shows | Stack |
 |---|---|---|
+| [Telecom Churn & Network Quality Analytics](https://github.com/Mahmoudmostafa911/telecom-churn-analytics) | Production-style churn pipeline on the real IBM Telco dataset: schema contract, ~45-rule quality gate with audit table, Kimball star schema for SQL Server / Power BI, portable analytics SQL, interpretable churn model with gain chart, CI-tested | Python, pandas, T-SQL, Power BI, DAX, scikit-learn, GitHub Actions |
 | [Sales Pipeline Lakehouse](https://github.com/Mahmoudmostafa911/sales-pipeline-lakehouse) | Microsoft Fabric Lakehouse: one PySpark notebook that loads raw CRM-style CSV files, cleans them (bronze / silver / gold Delta tables) and builds a star schema for Power BI | Microsoft Fabric, PySpark, Delta Lake, Spark SQL, DAX |
 | [Direct Sales Analysis](https://github.com/Mahmoudmostafa911/Direct-Sales-Analysis) | SQL Server stored procedure that cleans and aggregates multi-channel sales data into one reporting table, surfaced in a Power BI dashboard | SQL Server, T-SQL, Power BI, DAX |
 | [HR Analysis](https://github.com/Mahmoudmostafa911/HR-Analysis) | End-to-end HR analytics: pandas normalisation → Power BI dashboard, plus a matplotlib/Plotly mini-dashboard | Python, pandas, Power BI |
